@@ -1,8 +1,3 @@
----
-name: Pull request
-about: Open a pull request
----
-
 * [ ] I've read the [guidelines for Contributing to the Platform Co-op Toolkit](https://github.com/platform-coop-toolkit/.github/blob/master/CONTRIBUTING.md)
 * [ ] This isn't a duplicate of an existing pull request
 
