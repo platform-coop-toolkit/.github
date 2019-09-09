@@ -19,4 +19,4 @@
 
 ## Related issues
 
-<!-- If this pull request resolves an issue, please indicate the issue number here. >
+<!-- If this pull request resolves an issue, please indicate the issue number here. -->
